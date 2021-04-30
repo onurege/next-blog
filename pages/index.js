@@ -1,5 +1,5 @@
 function HomePage() {
-    return <div className="max">
+    return <div className="max-w-2xl">
       <h1>Ben Onur Ege Usluer. Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. </h1>
       <p>Front-end teknolojileri ve powerlifting sporuyla yakından ilgileniyorum.</p>
       <p>
